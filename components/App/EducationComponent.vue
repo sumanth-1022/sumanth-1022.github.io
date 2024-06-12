@@ -6,7 +6,7 @@
           <v-row no-gutters>
             <strong>January 2023 - December 2023</strong>
           </v-row>
-          <v-row no-gutters>
+          <v-row no-gutters class="mt-10 ml-6">
             <a href="https://louisville.edu/">
               <img :src="require(`@/assets/education/Uofl.png`)" alt="Image" style="width: 120px; height: 120px">
             </a>
@@ -49,7 +49,7 @@
           <v-row no-gutters>
             <strong>August 2017 - August 2021</strong>
           </v-row>
-          <v-row no-gutters>
+          <v-row no-gutters class="mt-10 ml-6">
             <a href="https://www.bits-pilani.ac.in/">
               <img :src="require(`@/assets/education/Bits.png`)" alt="Image" style="width: 120px; height: 120px">
             </a>
