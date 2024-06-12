@@ -1,0 +1,15 @@
+@import "~@/assets/variables.scss";
+
+html {
+    overflow-y: auto;
+}
+
+.v-data-table {
+    &.v-data-table--fixed-header > .v-data-table__wrapper {
+        height: 100%;
+    }
+}
+
+#__layout .container.container--fluid {
+    padding: 0;
+}
