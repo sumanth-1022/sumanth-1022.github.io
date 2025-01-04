@@ -19,7 +19,7 @@
           </div>
           <v-list>
             <li class="ml-4">
-              Grade: 3.959 (on a scale of 4.0)Grade: 3.959 (on a scale of 4.0)
+              Grade: 3.959 (on a scale of 4.0)
             </li>
             <li class="ml-4">
               Coursework:
